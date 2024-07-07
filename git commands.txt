@@ -1,0 +1,6 @@
+#right click on the folder anywhere and select 
+open git bash here
+
+git add .
+git commit -m "updated html files"
+git push origin master
